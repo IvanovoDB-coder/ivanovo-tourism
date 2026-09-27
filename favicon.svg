@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+
+  <!-- Тень -->
+  <ellipse cx="128" cy="225" rx="42" ry="10" fill="#00000022"></ellipse>
+
+  <!-- Геометка -->
+  <path d="M128 20
+           C73 20 32 61 32 112
+           C32 176 128 236 128 236
+           C128 236 224 176 224 112
+           C224 61 183 20 128 20Z" fill="#111111"></path>
+
+  <!-- Белый круг -->
+  <circle cx="128" cy="112" r="54" fill="white"></circle>
+
+  <!-- Буква И -->
+  <text x="128" y="132" text-anchor="middle" font-size="62" font-weight="700" font-family="Segoe UI, Arial, sans-serif" fill="#111111">И</text>
+
+</svg>
